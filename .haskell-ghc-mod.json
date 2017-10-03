@@ -1,0 +1,6 @@
+{
+  "disable": false,
+  "suppressErrors": false,
+  "ghcOptions": [],
+  "ghcModOptions": ["--with-ghc", "/run/current-system/sw/bin/ghc"]
+}
